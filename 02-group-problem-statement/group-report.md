@@ -8,7 +8,7 @@
 | --- | ------------------------- | -------------- | --------------------- |
 | 1   | Trương Hoàng Thành An | 2A202602574    | Leader + Writer       |
 | 2   | Phạm Anh Minh            | 2A202603009    | Research + Workflow   |
-| 3   | Phan Thị Khánh Linh     | 2A202603009    | Research + Validation |
+| 3   | Phan Thị Khánh Linh     | 2A202602360    | Research + Validation |
 | 4   | Nguyễn Thị Minh Tiến   | 2A202602997    | Writer + Pitch       |
 
 **Candidate problem nhóm chọn (1 câu):**
@@ -32,8 +32,8 @@ Thành viên nhóm mất 15-30 phút mỗi lần hỏi lại tiến độ và de
 | 7  | Thành An        | Hôm nay không biết ăn gì                                                                        | Cá nhân              | Chọn món ăn mất thời gian                     | Chưa rõ tần suất/thời gian                                       |
 | 8  | Thành An        | Mua hàng online phải so sánh giá cả và chất lượng từ nhiều sàn                           | Người mua hàng      | Đọc nhiều đánh giá                           | Chưa đo được thời gian                                          |
 | 9  | Thành An        | Ghi chú kiến thức nhưng khó liên kết với kiến thức cũ                                     | Người học           | Tìm lại ghi chú, không hiểu mối liên hệ    | Khó đo "liên kết tốt hơn"                                       |
-| 10 | Minh Tiến       | Tổng hợp review sự kiện từ nhiều nguồn khi lên kế hoạch (45-60 phút/lần)                     | Sinh viên             | So sánh review từ nhiều nguồn                  | Data source API có hạn chế                                         |
-| 11 | Minh Tiến       | Tìm kiếm & sắp xếp tài liệu research khóa luận mỗi lần                                                | Sinh viên năm 4  | Search paper                                       | Khóa luận đang còn sớm                                           |
+| 10 | Minh Tiến       | Tổng hợp review sự kiện từ nhiều nguồn khi lên kế hoạch (45-60 phút/lần)                 | Sinh viên             | So sánh review từ nhiều nguồn                  | Data source API có hạn chế                                         |
+| 11 | Minh Tiến       | Tìm kiếm & sắp xếp tài liệu research khóa luận mỗi lần                                     | Sinh viên năm 4      | Search paper                                       | Khóa luận đang còn sớm                                           |
 | 12 | Minh Tiến       | Trì hoãn làm khóa luận vì không có deadline cụ thể                                         | Sinh viên năm cuối  | Không có subtask deadline                        | Hơi rộng                                                            |
 
 ### 3.2. Gom trùng / cluster (gom 9-12 ý thành 3-4 cụm)
