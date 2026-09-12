@@ -35,26 +35,26 @@ Lưu ý: `02-group-problem-statement/` là **bản nộp nhóm**. Nhóm 3-4 ngư
 
 ## Output cuối cùng
 
-| Phần | Ai làm | Cần có gì |
-|---|---|---|
-| `01-individual-problem-scan/` | Cá nhân | 5+ problems, top 3 Problem Cards, draft workflow trước/sau cho top 3 |
-| `02-group-problem-statement/` | Nhóm | Nhật ký hội tụ, kiểm chứng nhanh, research giải pháp, workflow trước/sau, Problem Statement v0/v1, Rule / Workflow / Agent, quyết định cuối |
-| `03-individual-reflection/` | Cá nhân | Vai trò trong nhóm, cách dùng AI, học được gì, nếu làm lại sẽ đổi gì |
+| Phần                           | Ai làm   | Cần có gì                                                                                                                                              |
+| ------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `01-individual-problem-scan/` | Cá nhân | 5+ problems, top 3 Problem Cards, draft workflow trước/sau cho top 3                                                                                    |
+| `02-group-problem-statement/` | Nhóm     | Nhật ký hội tụ, kiểm chứng nhanh, research giải pháp, workflow trước/sau, Problem Statement v0/v1, Rule / Workflow / Agent, quyết định cuối |
+| `03-individual-reflection/`   | Cá nhân | Vai trò trong nhóm, cách dùng AI, học được gì, nếu làm lại sẽ đổi gì                                                                      |
 
 ## Tiêu chí đánh giá nhanh
 
 Chi tiết rubric nằm trong `README.md`. Bảng dưới đây giúp bạn biết phần nào đang ảnh hưởng tới điểm khi làm worksheet.
 
-| Nhóm / cá nhân | Thành phần | Điểm |
-|---|---|---:|
-| Nhóm | Workflow trước/sau | 15 |
-| Nhóm | Problem Statement + metric + boundary | 20 |
-| Nhóm | Độ phù hợp với AI + phương án thay thế | 15 |
-| Nhóm | Chất lượng quyết định Go / Not Yet / No-Go | 10 |
-| Cá nhân | Scan problem + top 3 Problem Cards | 12 |
-| Cá nhân | Tham gia pitch + challenge | 12 |
-| Cá nhân | Reflection cá nhân | 10 |
-| Cá nhân | Kiểm tra hiểu bài cá nhân | 6 |
+| Nhóm / cá nhân | Thành phần                                     | Điểm |
+| ----------------- | ------------------------------------------------ | -----: |
+| Nhóm             | Workflow trước/sau                             |     15 |
+| Nhóm             | Problem Statement + metric + boundary            |     20 |
+| Nhóm             | Độ phù hợp với AI + phương án thay thế  |     15 |
+| Nhóm             | Chất lượng quyết định Go / Not Yet / No-Go |     10 |
+| Cá nhân         | Scan problem + top 3 Problem Cards               |     12 |
+| Cá nhân         | Tham gia pitch + challenge                       |     12 |
+| Cá nhân         | Reflection cá nhân                             |     10 |
+| Cá nhân         | Kiểm tra hiểu bài cá nhân                   |      6 |
 
 Bonus tối đa +10 điểm:
 
@@ -64,25 +64,25 @@ Bonus tối đa +10 điểm:
 
 ## Quy ước dùng AI trong lab
 
-| Phần | Có thể dùng AI không? | Cách dùng đúng |
-|---|---|---|
-| Scan cá nhân | Có, sau khi tự scan trước | Hỏi thêm góc nhìn, rồi tự chọn ý nào là pain thật. |
-| Problem Card | Có | Dùng AI để phản biện, không để AI tự bịa problem thay mình. |
-| Pitch + challenge | Không dùng để nói/thay mình | Trình bày và phản biện bằng hiểu biết của bản thân. |
-| Research | Có | Dùng AI/search để tìm nguồn, nhưng phải kiểm link và ghi rõ giả định chưa chắc. |
-| Workflow | Có | Có thể dùng AI/Mermaid để vẽ lại flow, nhưng phải tự kiểm từng bước. |
-| Reflection | Không dùng để viết thay | Có thể dùng AI để gợi ý câu hỏi tự soi, nhưng câu trả lời phải là trải nghiệm thật của mình. |
+| Phần             | Có thể dùng AI không?         | Cách dùng đúng                                                                                                |
+| ----------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Scan cá nhân    | Có, sau khi tự scan trước     | Hỏi thêm góc nhìn, rồi tự chọn ý nào là pain thật.                                                     |
+| Problem Card      | Có                               | Dùng AI để phản biện, không để AI tự bịa problem thay mình.                                            |
+| Pitch + challenge | Không dùng để nói/thay mình | Trình bày và phản biện bằng hiểu biết của bản thân.                                                    |
+| Research          | Có                               | Dùng AI/search để tìm nguồn, nhưng phải kiểm link và ghi rõ giả định chưa chắc.                    |
+| Workflow          | Có                               | Có thể dùng AI/Mermaid để vẽ lại flow, nhưng phải tự kiểm từng bước.                                |
+| Reflection        | Không dùng để viết thay      | Có thể dùng AI để gợi ý câu hỏi tự soi, nhưng câu trả lời phải là trải nghiệm thật của mình. |
 
 ## Gợi ý công cụ nhanh
 
-| Phase | Tool có thể dùng | Dùng để làm gì | Lưu ý |
-|---|---|---|---|
-| Phase 1 | ChatGPT / Claude / Gemini, Google, review app/forum | Gợi ý thêm problem nếu bí | Tự scan trước; bỏ ý không có trải nghiệm thật. |
-| Phase 2 | ChatGPT / Claude | Phản biện Problem Card | Prompt rõ: "chỉ ra điểm yếu, đừng khen". |
-| Phase 4 | Google, Perplexity, tài liệu chính thức, survey/interview nhanh | Kiểm chứng pain, tìm giải pháp đã có | Không dùng số liệu nếu không kiểm được nguồn. |
-| Phase 5 | Giấy/bảng, Mermaid, Excalidraw, FigJam | Vẽ workflow trước/sau | Vẽ tay cho rõ tư duy trước, số hóa sau nếu cần nộp đẹp hơn. |
-| Phase 6 | ChatGPT / Claude | Hỏi phản biện Rule / Workflow / Agent | Không để AI chốt thay. Nhóm phải tự quyết định. |
-| Phase 7 | Không bắt buộc | Chỉ dùng để gợi ý câu hỏi tự soi | Không copy reflection do AI viết. |
+| Phase   | Tool có thể dùng                                                 | Dùng để làm gì                          | Lưu ý                                                                  |
+| ------- | ------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------ |
+| Phase 1 | ChatGPT / Claude / Gemini, Google, review app/forum                 | Gợi ý thêm problem nếu bí               | Tự scan trước; bỏ ý không có trải nghiệm thật.                 |
+| Phase 2 | ChatGPT / Claude                                                    | Phản biện Problem Card                     | Prompt rõ: "chỉ ra điểm yếu, đừng khen".                          |
+| Phase 4 | Google, Perplexity, tài liệu chính thức, survey/interview nhanh | Kiểm chứng pain, tìm giải pháp đã có | Không dùng số liệu nếu không kiểm được nguồn.                 |
+| Phase 5 | Giấy/bảng, Mermaid, Excalidraw, FigJam                            | Vẽ workflow trước/sau                     | Vẽ tay cho rõ tư duy trước, số hóa sau nếu cần nộp đẹp hơn. |
+| Phase 6 | ChatGPT / Claude                                                    | Hỏi phản biện Rule / Workflow / Agent     | Không để AI chốt thay. Nhóm phải tự quyết định.                |
+| Phase 7 | Không bắt buộc                                                   | Chỉ dùng để gợi ý câu hỏi tự soi    | Không copy reflection do AI viết.                                      |
 
 ---
 
@@ -120,12 +120,12 @@ Bonus:
 
 Một problem có thể rơi vào nhiều lăng kính. Không cần phân loại hoàn hảo ở bước này. Dùng lăng kính để mở rộng quan sát, rồi bước sau mới filter.
 
-| Lăng kính | Câu hỏi gợi mở | Ví dụ |
-|---|---|---|
-| **Lặp lại** | Việc gì cứ xuất hiện đều đặn mỗi ngày/tuần/tháng?<br>Nếu phải làm thêm 10 lần nữa, phần nào tôi muốn chuẩn hóa hoặc tự động hóa?<br>Người mới vào có phải hỏi lại cùng một quy trình không? | Báo cáo tuần, nhập liệu, tổng hợp câu hỏi |
-| **Tốn thời gian** | Việc gì mỗi lần làm đều nặng, dù không nhất thiết xảy ra thường xuyên?<br>Thời gian mất ở đâu: tìm thông tin, đọc hiểu, tổng hợp, chờ người khác, format, hay sửa lại?<br>Nếu giảm 50% thời gian thì có đáng kể không? | Đọc tài liệu dài, tìm quyết định cũ, review PRD |
-| **AI có thể tốt hơn** | Việc gì cần hiểu ngữ cảnh, đọc/viết ngôn ngữ, phân loại, so sánh, tổng hợp hoặc gợi ý đúng lúc?<br>Nếu AI chỉ hỗ trợ một bước trong workflow, bước nào đáng hỗ trợ nhất?<br>Nếu AI sai ở bước đó thì hậu quả là gì? | Search tài liệu, gợi ý next step, tóm tắt nhiều nguồn |
-| **Pain từ người khác** | Ai ngoài tôi đang bị kẹt hoặc phàn nàn lặp lại?<br>Họ thường nói câu gì, hỏi lại điều gì, hoặc bỏ sót bước nào?<br>Có dấu hiệu thật không: ticket, Slack/Discord, comment, survey, phản hồi trực tiếp? | Hỏi lại deadline, không hiểu task, support ticket lặp lại |
+| Lăng kính                      | Câu hỏi gợi mở                                                                                                                                                                                                                                          | Ví dụ                                                         |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Lặp lại**              | Việc gì cứ xuất hiện đều đặn mỗi ngày/tuần/tháng?Nếu phải làm thêm 10 lần nữa, phần nào tôi muốn chuẩn hóa hoặc tự động hóa?Người mới vào có phải hỏi lại cùng một quy trình không?                               | Báo cáo tuần, nhập liệu, tổng hợp câu hỏi              |
+| **Tốn thời gian**        | Việc gì mỗi lần làm đều nặng, dù không nhất thiết xảy ra thường xuyên?Thời gian mất ở đâu: tìm thông tin, đọc hiểu, tổng hợp, chờ người khác, format, hay sửa lại?Nếu giảm 50% thời gian thì có đáng kể không?   | Đọc tài liệu dài, tìm quyết định cũ, review PRD       |
+| **AI có thể tốt hơn**  | Việc gì cần hiểu ngữ cảnh, đọc/viết ngôn ngữ, phân loại, so sánh, tổng hợp hoặc gợi ý đúng lúc?Nếu AI chỉ hỗ trợ một bước trong workflow, bước nào đáng hỗ trợ nhất?Nếu AI sai ở bước đó thì hậu quả là gì? | Search tài liệu, gợi ý next step, tóm tắt nhiều nguồn   |
+| **Pain từ người khác** | Ai ngoài tôi đang bị kẹt hoặc phàn nàn lặp lại?Họ thường nói câu gì, hỏi lại điều gì, hoặc bỏ sót bước nào?Có dấu hiệu thật không: ticket, Slack/Discord, comment, survey, phản hồi trực tiếp?                          | Hỏi lại deadline, không hiểu task, support ticket lặp lại |
 
 Cách phân biệt nhanh:
 
@@ -143,39 +143,39 @@ Nếu bí, tự hỏi:
 
 Một số điểm bắt đầu dễ quan sát:
 
-| Bối cảnh | Có thể nhìn vào đâu? | Câu hỏi gợi mở |
-|---|---|---|
-| Học tập | Bài tập, tài liệu, deadline, câu hỏi lặp lại trong lớp | Phần nào làm tôi mất thời gian vì phải đọc, tổng hợp, hỏi lại hoặc đoán ý? |
-| Công việc / thực tập | Báo cáo, họp, handoff, ticket, review, nhập liệu | Việc nào lặp lại đủ nhiều nhưng vẫn cần hiểu ngữ cảnh trước khi xử lý? |
-| Nhóm / CLB / dự án | Phân công, theo dõi tiến độ, feedback, tổng hợp quyết định | Chỗ nào mọi người hay hiểu khác nhau hoặc bỏ sót việc cần làm? |
-| Sản phẩm đang dùng | Search, onboarding, support, form, notification | Điểm nào user phải tự nối nhiều thông tin rời rạc để hoàn thành việc? |
+| Bối cảnh               | Có thể nhìn vào đâu?                                            | Câu hỏi gợi mở                                                                           |
+| ------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Học tập                | Bài tập, tài liệu, deadline, câu hỏi lặp lại trong lớp       | Phần nào làm tôi mất thời gian vì phải đọc, tổng hợp, hỏi lại hoặc đoán ý? |
+| Công việc / thực tập | Báo cáo, họp, handoff, ticket, review, nhập liệu                 | Việc nào lặp lại đủ nhiều nhưng vẫn cần hiểu ngữ cảnh trước khi xử lý?      |
+| Nhóm / CLB / dự án    | Phân công, theo dõi tiến độ, feedback, tổng hợp quyết định | Chỗ nào mọi người hay hiểu khác nhau hoặc bỏ sót việc cần làm?                  |
+| Sản phẩm đang dùng   | Search, onboarding, support, form, notification                       | Điểm nào user phải tự nối nhiều thông tin rời rạc để hoàn thành việc?         |
 
 ## Ngân hàng gợi ý problem
 
 Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay lại trải nghiệm thật của bạn. Không copy nguyên văn; hãy viết lại theo người dùng, workflow và dấu hiệu thật mà bạn quan sát được.
 
-| Bối cảnh | Gợi ý problem để suy nghĩ |
-|---|---|
-| Học tập | Tìm lại quyết định/câu trả lời cũ trong Discord; đọc tài liệu dài trước deadline; không biết bài nộp thiếu field nào; ôn tập từ nhiều nguồn rời rạc. |
-| Đời sống cá nhân | Theo dõi chi tiêu rải rác nhiều app; lên kế hoạch đi lại/ăn uống cho nhóm; tổng hợp giấy tờ cá nhân; nhắc việc định kỳ nhưng hay quên context. |
-| Thực tập / công việc mới | Hỏi lại quy trình onboarding; tìm người phụ trách đúng việc; viết update hằng tuần; hiểu task từ nhiều Slack/thread/tài liệu. |
-| Người đi làm | Tổng hợp báo cáo tuần; chuẩn bị meeting recap; review tài liệu dài; phân loại ticket/support; tìm quyết định cũ trước khi làm tiếp. |
-| Cải thiện sản phẩm đang dùng | Search kém; onboarding khó hiểu; notification không đúng lúc; form dài và dễ nhập sai; support phải hỏi lại cùng một thông tin nhiều lần. |
+| Bối cảnh                         | Gợi ý problem để suy nghĩ                                                                                                                                                    |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Học tập                          | Tìm lại quyết định/câu trả lời cũ trong Discord; đọc tài liệu dài trước deadline; không biết bài nộp thiếu field nào; ôn tập từ nhiều nguồn rời rạc. |
+| Đời sống cá nhân              | Theo dõi chi tiêu rải rác nhiều app; lên kế hoạch đi lại/ăn uống cho nhóm; tổng hợp giấy tờ cá nhân; nhắc việc định kỳ nhưng hay quên context.          |
+| Thực tập / công việc mới      | Hỏi lại quy trình onboarding; tìm người phụ trách đúng việc; viết update hằng tuần; hiểu task từ nhiều Slack/thread/tài liệu.                                  |
+| Người đi làm                   | Tổng hợp báo cáo tuần; chuẩn bị meeting recap; review tài liệu dài; phân loại ticket/support; tìm quyết định cũ trước khi làm tiếp.                          |
+| Cải thiện sản phẩm đang dùng | Search kém; onboarding khó hiểu; notification không đúng lúc; form dài và dễ nhập sai; support phải hỏi lại cùng một thông tin nhiều lần.                      |
 
 ## Bảng scan
 
-| # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+| #  | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
+| -- | ----------- | ------------------------- | ---------------------- | ---------------- |
+| 1  |             |                           |                        |                  |
+| 2  |             |                           |                        |                  |
+| 3  |             |                           |                        |                  |
+| 4  |             |                           |                        |                  |
+| 5  |             |                           |                        |                  |
+| 6  |             |                           |                        |                  |
+| 7  |             |                           |                        |                  |
+| 8  |             |                           |                        |                  |
+| 9  |             |                           |                        |                  |
+| 10 |             |                           |                        |                  |
 
 Gợi ý cho `Dấu hiệu thật`: mất bao lâu, xảy ra mấy lần/tuần, bao nhiêu người gặp, có log/ticket/review/comment không, nếu không sửa thì hậu quả là gì.
 
@@ -226,10 +226,10 @@ Tiêu chí chọn:
 - Không quá rộng cho một buổi lab.
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| ---- | ------- | ------------- | ----------------------- |
+| 1    |         |               |                         |
+| 2    |         |               |                         |
+| 3    |         |               |                         |
 
 ## Problem Card template
 
@@ -398,29 +398,29 @@ Mỗi người trình bày 3 candidates, mỗi candidate 1-2 phút:
 - draft workflow tương lai thay đổi gì,
 - vì sao bài này có tác động đáng kể.
 
-| # | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
-| 9 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
+| #  | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh |
+| -- | ---------------- | ----------------- | ---------------------- | ------------- | ---------------- |
+| 1  |                  |                   |                        |               |                  |
+| 2  |                  |                   |                        |               |                  |
+| 3  |                  |                   |                        |               |                  |
+| 4  |                  |                   |                        |               |                  |
+| 5  |                  |                   |                        |               |                  |
+| 6  |                  |                   |                        |               |                  |
+| 7  |                  |                   |                        |               |                  |
+| 8  |                  |                   |                        |               |                  |
+| 9  |                  |                   |                        |               |                  |
+| 10 |                  |                   |                        |               |                  |
+| 11 |                  |                   |                        |               |                  |
+| 12 |                  |                   |                        |               |                  |
 
 ## Bước 3.2 — Gom trùng / cluster
 
 | Cluster | Candidates included | Pattern chung | Ghi chú |
-|---|---|---|---|
-| A | | | |
-| B | | | |
-| C | | | |
-| D | | | |
+| ------- | ------------------- | ------------- | -------- |
+| A       |                     |               |          |
+| B       |                     |               |          |
+| C       |                     |               |          |
+| D       |                     |               |          |
 
 ## Bước 3.3 — Shortlist
 
@@ -435,20 +435,20 @@ Hỏi:
 - Có quá rộng cho lab hôm nay không?
 
 | Candidate | Vì sao vào shortlist | Rủi ro / điều chưa rõ |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+| --------- | ---------------------- | -------------------------- |
+|           |                        |                            |
+|           |                        |                            |
+|           |                        |                            |
 
 ## Bước 3.4 — Score để đồng thuận
 
 Chấm 1-5. Điểm không cần tuyệt đối; mục tiêu là ép nhóm nói rõ lý do.
 
 | Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| --------- | --------: | -----------: | ----------------: | -----------------: | -------------: | ---------------------: | -----------------: | ----: |
+|           |           |              |                   |                    |                |                        |                    |       |
+|           |           |              |                   |                    |                |                        |                    |       |
+|           |           |              |                   |                    |                |                        |                    |       |
 
 Candidate nhóm chọn:
 
@@ -513,11 +513,11 @@ Hỏi 5-10 người:
 
 Kết quả:
 
-| Nguồn | Số người / số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác | Nhóm sửa problem thế nào |
-|---|---:|---|---|---|
-| Interview | | | | |
-| Survey / poll | | | | |
-| Log / review / ticket | | | | |
+| Nguồn                | Số người / số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác | Nhóm sửa problem thế nào |
+| --------------------- | ---------------------: | --------------------- | --------------------- | ---------------------------- |
+| Interview             |                        |                       |                       |                              |
+| Survey / poll         |                        |                       |                       |                              |
+| Log / review / ticket |                        |                       |                       |                              |
 
 ## Bước 4.2 — Research giải pháp đã có
 
@@ -529,10 +529,10 @@ Tìm ít nhất:
 - Bài học kéo về bài toán nhóm mình.
 
 | Nguồn / tool / case | Link | Họ giải quyết phần nào? | Điểm mạnh | Khoảng trống / rủi ro | Bài học cho nhóm |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| -------------------- | ---- | ---------------------------- | ------------ | ------------------------ | ------------------- |
+|                      |      |                              |              |                          |                     |
+|                      |      |                              |              |                          |                     |
+|                      |      |                              |              |                          |                     |
 
 Nếu dùng AI research, dùng prompt:
 
@@ -572,12 +572,12 @@ Dán workflow hoặc link file:
 ```
 
 | Bước | Actor | Input | Output | Thời gian/tần suất | Ghi chú |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| ------ | ----- | ----- | ------ | --------------------- | -------- |
+| 1      |       |       |        |                       |          |
+| 2      |       |       |        |                       |          |
+| 3      |       |       |        |                       |          |
+| 4      |       |       |        |                       |          |
+| 5      |       |       |        |                       |          |
 
 Bottleneck chính:
 
@@ -603,24 +603,24 @@ Dán workflow hoặc link file:
 
 Before/after impact:
 
-| Metric | Trước | Sau kỳ vọng | Ghi chú |
-|---|---:|---:|---|
-| Số bước | | | |
-| Tổng thời gian | | | |
-| Số bước thủ công | | | |
-| Bottleneck chính | | | |
-| Risk mới | | | |
+| Metric                | Trước | Sau kỳ vọng | Ghi chú |
+| --------------------- | ------: | ------------: | -------- |
+| Số bước            |         |               |          |
+| Tổng thời gian      |         |               |          |
+| Số bước thủ công |         |               |          |
+| Bottleneck chính     |         |               |          |
+| Risk mới             |         |               |          |
 
 ## Bước 5.3 — Problem Statement v0
 
-| Field | Nội dung |
-|---|---|
-| **Actor** | |
-| **Workflow** | |
-| **Bottleneck** | |
-| **Impact** | |
-| **Success Metric** | |
-| **Boundary** | |
+| Field                    | Nội dung |
+| ------------------------ | --------- |
+| **Actor**          |           |
+| **Workflow**       |           |
+| **Bottleneck**     |           |
+| **Impact**         |           |
+| **Success Metric** |           |
+| **Boundary**       |           |
 
 Prompt phản biện PS:
 
@@ -644,10 +644,10 @@ Hãy chỉ ra field nào còn mơ hồ, metric đã đo được chưa, boundary
 
 Ma trận này chỉ là công cụ phụ để suy nghĩ. Quyết định cuối vẫn phải dựa trên workflow, metric, boundary và rủi ro thật.
 
-| | Độ mơ hồ thấp | Độ mơ hồ cao |
-|---|---|---|
-| **Độ phức tạp thấp** | Rule hoặc workflow đơn giản thường đủ | Workflow có AI hỗ trợ một bước có thể đủ |
-| **Độ phức tạp cao** | Workflow điều phối nhiều bước rõ ràng, chưa chắc cần Agent | Agent có thể phù hợp, nhưng cần boundary, người thật kiểm tra và phương án quay về rất rõ |
+|                                 | Độ mơ hồ thấp                                                    | Độ mơ hồ cao                                                                                           |
+| ------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Độ phức tạp thấp** | Rule hoặc workflow đơn giản thường đủ                         | Workflow có AI hỗ trợ một bước có thể đủ                                                         |
+| **Độ phức tạp cao**   | Workflow điều phối nhiều bước rõ ràng, chưa chắc cần Agent | Agent có thể phù hợp, nhưng cần boundary, người thật kiểm tra và phương án quay về rất rõ |
 
 Độ mơ hồ là gì?
 
@@ -661,11 +661,11 @@ Ma trận này chỉ là công cụ phụ để suy nghĩ. Quyết định cuố
 
 Tự kiểm nhanh:
 
-| Câu hỏi | Nếu có | Nếu không |
-|---|---|---|
-| Output có thể khác nhau mỗi lần mà vẫn chấp nhận được không? | Độ mơ hồ cao | Độ mơ hồ thấp |
-| Cần phối hợp 3+ bước hoặc 3+ nguồn dữ liệu không? | Độ phức tạp cao | Độ phức tạp thấp |
-| AI có cần tự quyết định bước tiếp theo không? | Có thể cần Agent | Rule/Workflow có thể đủ |
+| Câu hỏi                                                                 | Nếu có            | Nếu không                 |
+| ------------------------------------------------------------------------- | ------------------- | --------------------------- |
+| Output có thể khác nhau mỗi lần mà vẫn chấp nhận được không? | Độ mơ hồ cao    | Độ mơ hồ thấp          |
+| Cần phối hợp 3+ bước hoặc 3+ nguồn dữ liệu không?               | Độ phức tạp cao | Độ phức tạp thấp       |
+| AI có cần tự quyết định bước tiếp theo không?                   | Có thể cần Agent | Rule/Workflow có thể đủ |
 
 Bài toán của nhóm nằm ở ô nào?
 
@@ -681,11 +681,11 @@ Vì sao?
 
 ## Bước 6.1 — So sánh Rule / Workflow / Agent
 
-| Mức | Phương án cho bài toán nhóm | Khi nào đủ | Rủi ro | Chọn? |
-|---|---|---|---|---|
-| **Rule** | | | | |
-| **Workflow** | | | | |
-| **Agent** | | | | |
+| Mức               | Phương án cho bài toán nhóm | Khi nào đủ | Rủi ro | Chọn? |
+| ------------------ | --------------------------------- | ------------- | ------- | ------ |
+| **Rule**     |                                   |               |         |        |
+| **Workflow** |                                   |               |         |        |
+| **Agent**    |                                   |               |         |        |
 
 Hỏi kỹ:
 
@@ -715,28 +715,28 @@ Vì sao không chọn mức đơn giản hơn:
 
 ## Bước 6.2 — Problem Statement v1
 
-| Field | Nội dung |
-|---|---|
-| **Actor** | |
-| **Workflow** | |
-| **Bottleneck** | |
-| **Impact** | |
-| **Success Metric** | |
-| **Boundary** | |
-| **AI intervention point** | |
-| **Mức chọn** | Rule / Workflow / Agent |
-| **Rủi ro & người thật kiểm tra** | |
+| Field                                       | Nội dung               |
+| ------------------------------------------- | ----------------------- |
+| **Actor**                             |                         |
+| **Workflow**                          |                         |
+| **Bottleneck**                        |                         |
+| **Impact**                            |                         |
+| **Success Metric**                    |                         |
+| **Boundary**                          |                         |
+| **AI intervention point**             |                         |
+| **Mức chọn**                        | Rule / Workflow / Agent |
+| **Rủi ro & người thật kiểm tra** |                         |
 
 ## Bước 6.3 — Final decision
 
-| Câu hỏi | Yes / Not Yet / No | Ghi chú |
-|---|---|---|
-| Actor và workflow đã rõ chưa? | | |
-| Baseline và success metric đã đo được chưa? | | |
-| Có data/input đủ dùng chưa? | | |
-| Nếu AI sai, hậu quả có chấp nhận được không? | | |
-| Có người review/owner vận hành không? | | |
-| Có cách non-AI đơn giản hơn không? | | |
+| Câu hỏi                                              | Yes / Not Yet / No | Ghi chú |
+| ------------------------------------------------------ | ------------------ | -------- |
+| Actor và workflow đã rõ chưa?                     |                    |          |
+| Baseline và success metric đã đo được chưa?    |                    |          |
+| Có data/input đủ dùng chưa?                       |                    |          |
+| Nếu AI sai, hậu quả có chấp nhận được không? |                    |          |
+| Có người review/owner vận hành không?            |                    |          |
+| Có cách non-AI đơn giản hơn không?              |                    |          |
 
 Decision:
 
@@ -778,30 +778,30 @@ Reflection là phần cá nhân. Không dùng AI để viết thay câu trả l�
 
 ## Tôi đã tham gia vào phần nào?
 
-| Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
-|---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Hoạt động                   | Tôi đã làm gì? | Kết quả / ảnh hưởng |
+| ------------------------------ | ------------------- | ------------------------ |
+| Scan cá nhân                 |                     |                          |
+| Pitch Problem Card             |                     |                          |
+| Challenge bài của bạn khác |                     |                          |
+| Gom trùng / cluster           |                     |                          |
+| Chọn candidate problem        |                     |                          |
+| Validation / research          |                     |                          |
+| Workflow nhóm                 |                     |                          |
+| Problem Statement              |                     |                          |
+| Rule / Workflow / Agent        |                     |                          |
+| Decision                       |                     |                          |
 
 ## Bảng dùng AI trong reflection
 
-| Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
-|---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Phase                   | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
+| ----------------------- | ---------------------------- | ---------------------- | -------------------------- | -------------------------------------------- |
+| Scan                    |                              |                        |                            |                                              |
+| Problem Card            |                              |                        |                            |                                              |
+| Workflow                |                              |                        |                            |                                              |
+| Research                |                              |                        |                            |                                              |
+| Problem Statement       |                              |                        |                            |                                              |
+| Rule / Workflow / Agent |                              |                        |                            |                                              |
+| Decision                |                              |                        |                            |                                              |
 
 ## Reflection câu hỏi mở
 
